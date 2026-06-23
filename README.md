@@ -21,6 +21,9 @@ Welcome to my GitHub! I'm a Computer Science Engineering student specializing in
 ## 💻 Tech Stack
 
 ### Programming Languages
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,git,github,vscode,postman,mysql)](https://skillicons.dev)
 
 * Java
 * Python

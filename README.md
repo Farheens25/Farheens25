@@ -1,6 +1,7 @@
 
 
 # Hi there, I'm Farheen Shinda 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ![](https://komarev.com/ghpvc/?username=Farheens25&color=blue)
 
 ### Computer Science Engineering Student (Artificial Intelligence & Data Science) | Full-Stack Developer | AI Enthusiast
@@ -33,16 +34,7 @@ Welcome to my GitHub! I'm a Computer Science Engineering student specializing in
 * Data Structures
 * Algorithms
 * Problem Solving
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Postman
-* Visual Studio Code
-
 ---
-
 ## 📂 Featured Projects
 
 ### ⚖️ Justice AI Platform
@@ -84,40 +76,8 @@ A computer vision application that enables users to virtually try on clothing us
 * Image processing
 * Computer Vision
 * Interactive user experience
-
 ---
 
-## 📚 Currently Learning
-
-* SQL
-* Advanced Java
-* Data Structures & Algorithms
-* Backend Development
-* Database Design
-* Software Development Best Practices
-
----
-
-## 🎯 2026 Goals
-
-* Solve 300+ Data Structures & Algorithms problems
-* Build more full-stack and AI-powered applications
-* Contribute to open-source projects
-* Strengthen backend development skills
-* Secure a Software Development Internship
-
----
-
-## 🌱 What You'll Find on My GitHub
-
-* Java Projects
-* AI & Machine Learning Applications
-* Full-Stack Web Development Projects
-* Computer Vision Projects
-* Academic Projects
-* Coding Practice & DSA Solutions
-
----
 ## 🏆 Achievements
 
 - 🥇 **1st Place** – Flag Hunter Contest organized by the Cyber Security Association.

@@ -144,8 +144,8 @@ I believe in learning by building. Every project in this repository represents a
 ## 📫 Let's Connect
 
 * 📧 Email: [farheenshinda@gmail.com](mailto:farheenshinda@gmail.com)
-* 💼 LinkedIn:[ https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/farheen-shinda-316a62326?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* 🐙 GitHub:[ https://github.com/your-github-username
+* 💼 LinkedIn:[ https://linkedin.com/in/Farheen_Shinda](https://www.linkedin.com/in/farheen-shinda-316a62326?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 🐙 GitHub:[ https://github.com/Farheens25
 ](https://github.com/Farheens25)
 ---
 

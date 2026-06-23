@@ -1,8 +1,7 @@
 
 
 # Hi there, I'm Farheen Shinda 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![](https://komarev.com/ghpvc/?username=Farheens25&color=blue)
+
 
 ### Computer Science Engineering Student (Artificial Intelligence & Data Science) | Full-Stack Developer | AI Enthusiast
 
@@ -20,9 +19,6 @@ Welcome to my GitHub! I'm a Computer Science Engineering student specializing in
 
 ---
 
-## 💻 Tech Stack
-
-### Programming Languages
 ## 💻 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,git,github,vscode,postman,mysql)](https://skillicons.dev)
@@ -92,11 +88,12 @@ A computer vision application that enables users to virtually try on clothing us
 
 - 🟡 **LeetCode:** https://leetcode.com/Farheen_Shinda
 - ⭐ **HackerRank:** https://hackerrank.com/farheenshinda
-- 🍽️ **CodeChef:** https://codechef.com/users/agile_shine_79
-
-## 📈 My Approach
-
-I believe in learning by building. Every project in this repository represents a step forward in improving my software engineering skills, exploring new technologies, and solving practical problems.
+- 🍽️ **CodeChef:** https://codechef.com/users/agile_shine_7
+---
+## 📊 GitHub Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farheens25&layout=compact&theme=tokyonight)
+[![Farheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farheens25&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Farheens25&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
@@ -107,11 +104,9 @@ I believe in learning by building. Every project in this repository represents a
 * 🐙 GitHub:[ https://github.com/Farheens25
 ](https://github.com/Farheens25)
 ---
-## 📊 GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farheens25&layout=compact&theme=tokyonight)
-[![Farheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farheens25&show_icons=true&theme=tokyonight&cache_seconds=1800)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Farheens25&theme=tokyonight)](https://git.io/streak-stats)
+## 📈 My Approach
 
+I believe in learning by building. Every project in this repository represents a step forward in improving my software engineering skills, exploring new technologies, and solving practical problems.
 > *"Code. Learn. Build. Improve. Repeat."*
 
 ⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to connect or collaborate.

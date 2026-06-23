@@ -1,6 +1,7 @@
 
 
 # Hi there, I'm Farheen Shinda 👋
+![](https://komarev.com/ghpvc/?username=Farheens25&color=blue)
 
 ### Computer Science Engineering Student (Artificial Intelligence & Data Science) | Full-Stack Developer | AI Enthusiast
 
@@ -25,28 +26,6 @@ Welcome to my GitHub! I'm a Computer Science Engineering student specializing in
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,html,css,react,nodejs,git,github,vscode,postman,mysql)](https://skillicons.dev)
 
-* Java
-* Python
-* C
-* C++
-* JavaScript
-* TypeScript
-* SQL *(Learning)*
-
-### Frontend
-
-* HTML5
-* CSS3
-* React.js
-
-### Backend
-
-* Node.js
-
-### Artificial Intelligence & Computer Vision
-
-* Python
-* Computer Vision
 
 ### Core Computer Science
 
@@ -139,6 +118,21 @@ A computer vision application that enables users to virtually try on clothing us
 * Coding Practice & DSA Solutions
 
 ---
+## 🏆 Achievements
+
+- 🥇 **1st Place** – Flag Hunter Contest organized by the Cyber Security Association.
+- 🚀 **Top 12 Finalist** in a National-Level Hackathon, competing against teams from across the country.
+- 👩‍💻 Selected as a **Member of the Software Development Club** at DKTE.
+- 🎓 Maintaining an excellent academic record with a **CGPA of 9.60**.
+- ## 📜 Certifications
+
+- ✅ **Design, Technology and Innovation** – NPTEL
+- ✅ **MERN Stack Virtual Internship** – AICTE
+- ## 💻 Coding Profiles
+
+- 🟡 **LeetCode:** https://leetcode.com/Farheen_Shinda
+- ⭐ **HackerRank:** https://hackerrank.com/farheenshinda
+- 🍽️ **CodeChef:** https://codechef.com/users/agile_shine_79
 
 ## 📈 My Approach
 

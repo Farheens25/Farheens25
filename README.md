@@ -152,7 +152,7 @@ I believe in learning by building. Every project in this repository represents a
 ---
 ## 📊 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farheens25&layout=compact&theme=tokyonight)
-(https://github-readme-stats.vercel.app/api?username=Farheens25&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![Farheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farheens25&show_icons=true&theme=tokyonight&cache_seconds=1800)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Farheens25&theme=tokyonight)](https://git.io/streak-stats)
 
 > *"Code. Learn. Build. Improve. Repeat."*

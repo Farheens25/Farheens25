@@ -1,4 +1,5 @@
- <img width="672" height="715" alt="image" src="https://github.com/user-attachments/assets/646c05c0-d30d-4691-bb1a-65abd922f28d" />
+
+
 # Hi there, I'm Farheen Shinda 👋
 
 ### Computer Science Engineering Student (Artificial Intelligence & Data Science) | Full-Stack Developer | AI Enthusiast
@@ -151,8 +152,8 @@ I believe in learning by building. Every project in this repository represents a
 ---
 ## 📊 GitHub Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farheens25&layout=compact&theme=tokyonight)
-[![Farheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farheens25)](https://github.com/Farheens25/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Farheens25)](https://git.io/streak-stats)
+(https://github-readme-stats.vercel.app/api?username=Farheens25&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Farheens25&theme=tokyonight)](https://git.io/streak-stats)
 
 > *"Code. Learn. Build. Improve. Repeat."*
 

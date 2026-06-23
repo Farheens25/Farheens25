@@ -1,4 +1,5 @@
- # Hi there, I'm Farheen Shinda 👋
+ <img width="672" height="715" alt="image" src="https://github.com/user-attachments/assets/646c05c0-d30d-4691-bb1a-65abd922f28d" />
+# Hi there, I'm Farheen Shinda 👋
 
 ### Computer Science Engineering Student (Artificial Intelligence & Data Science) | Full-Stack Developer | AI Enthusiast
 

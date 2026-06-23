@@ -148,6 +148,10 @@ I believe in learning by building. Every project in this repository represents a
 * 🐙 GitHub:[ https://github.com/Farheens25
 ](https://github.com/Farheens25)
 ---
+## 📊 GitHub Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Farheens25&layout=compact&theme=tokyonight)
+[![Farheen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Farheens25)](https://github.com/Farheens25/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Farheens25)](https://git.io/streak-stats)
 
 > *"Code. Learn. Build. Improve. Repeat."*
 
